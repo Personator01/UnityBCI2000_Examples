@@ -1,0 +1,5 @@
+*/*
+
+# only include Assets folder of projects
+
+!*/Assets

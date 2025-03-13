@@ -3,3 +3,5 @@
 # only include Assets folder of projects
 
 !*/Assets
+!*/ProjectSettings
+!*/Packages
